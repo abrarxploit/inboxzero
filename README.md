@@ -120,7 +120,6 @@ Deleted Emails: 7
 - GUI dashboard
 - Email label filtering
 - Automated scheduling and reporting
-- Will be able to scan more than 20 emails at a time or full inbox.
 
 ---
 
