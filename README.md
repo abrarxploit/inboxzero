@@ -49,7 +49,6 @@ inboxenv\Scripts\activate  # On Windows
 
 ```bash
 pip install -e .
-pip install -r requirements.txt
 ```
 
 ---
